@@ -1,0 +1,28 @@
+header {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-image: url("https://alemdeviagem.com.br/wp-content/uploads/2021/05/header-alem-de-viagem-1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding: 20px; 
+    margin: 0%;
+    align-content: center;
+    text-align: center;
+}
+
+#description {
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+
+span {
+    background-color: #33333382;
+}
